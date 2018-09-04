@@ -131,12 +131,12 @@
                           <div class="dropdown-content">
                             <a href="apps.php#lobo">Pregunta Lobo</a>
                             <a href="apps.php#stem">Stem Apps</a>
-                            <a href="apps.php#guarida">Guarida</a>
+                            <a href="apps.php#guarida">Guarida Lobo</a>
                           </div>
                         </div>
                         <li><a href="gallery.php#wowslider-container1">Gallery</a></li>
                         <li><a href="courses.php">Courses</a></li>
-						<li><a href="about2.php">About Us</a></li>
+						<li><a href="about.php">About Us</a></li>
 						<li><a href="bio.php">Bio</a></li>
 						<li><a href="contact.php">Contact Us</a></li>
 					</ul>

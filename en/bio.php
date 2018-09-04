@@ -68,7 +68,7 @@
     .dropbtn {
     background-color: transparent;
     color: #999A9B;
-    padding: 8px; 
+    padding: 8px;
     /*font-size: 16px; */
     border: none;
 }
@@ -129,12 +129,12 @@
                           <div class="dropdown-content">
                             <a href="apps.php#lobo">Pregunta Lobo</a>
                             <a href="apps.php#stem">Stem Apps</a>
-                            <a href="apps.php#guarida">Guarida</a>
+                            <a href="apps.php#guarida">Guarida Lobo</a>
                           </div>
                         </div>
                         <li><a href="gallery.php#wowslider-container1">Gallery</a></li>
                         <li><a href="courses.php">Courses</a></li>
-						<li><a href="about2.php">About Us</a></li>
+						<li><a href="about.php">About Us</a></li>
 						<li class="active"><a href="bio.php">Bio</a></li>
 						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
@@ -169,9 +169,12 @@
 						<h3>Edward Latorre Navarro, Ph.D.</h3>
 						</br>
 						<div class="row">
-							<p align="center">Edward Latorre-Navarro is a Professional Engineer (P.E.) and an Assistant Professor of Computer Science at the University of Puerto Rico in Arecibo. He also teaches graduate courses for the ECE  and Computer Science Department of the Polytechnic University of Puerto Rico. Edward has a Ph.D. in Electrical and Computer Engineering from the University of Florida, with his research combined the areas of Machine Learning, Speech Processing and Natural Language Processing. He has a BSEE and  MSEE from the University of Puerto Rico Mayagüez Campus, both with a specialization in the  area of Digital Signal Processing.</p>
+							<p align="center">Edward Latorre-Navarro is a Professional Engineer (P.E.) and an Assistant Professor of Computer Science at the University of Puerto Rico in Arecibo. He also teaches graduate courses for the ECE and Computer Science Department of the Polytechnic University of Puerto Rico. Edward has a Ph.D. in Electrical and Computer Engineering from the University of Florida, where his research combined the areas of Machine Learning, Speech Processing and Natural Language Processing. He has a BSEE and  MSEE from the University of Puerto Rico Mayagüez Campus, both with a specialization in the area of Digital Signal Processing.</p>
 							<p align="center">His research work combines elements of natural language processing, human-centered design, machine learning and cloud computing, to develop software applications that can improve the academic experience with respect to student educational goals. He is also actively participating and promoting entrepreneurship experiences for CS students.</p>
-							<p align="center"> His teaching philosophy combines elements from: Active-based learning Project-based learning Accuracy-based vs. effort-based grading PUBLICATIONS.</p>					
+							<p align="center"> His teaching philosophy combines elements from: <br>
+																		Active-based learning <br>
+																		Project-based learning <br>
+																		Accuracy-based vs. effort-based grading.</p>
 							<p>Researchgate profile: <a href="https://www.researchgate.net/profile/Edward_Latorre-Navarro" target="_blank"> Edward_Latorre-Navarro </a></p>
 							</br></br><p style="color:red;" align="center"> “There is no greater education than one that is self-driven” - NDT </p>
 						</div>

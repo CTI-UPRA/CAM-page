@@ -155,12 +155,12 @@
                           <div class="dropdown-content">
                             <a href="apps.php#lobo">Pregunta Lobo</a>
                             <a href="apps.php#stem">Stem Apps</a>
-                            <a href="apps.php#guarida">Guarida</a>
+                            <a href="apps.php#guarida">Guarida Lobo</a>
                           </div>
                         </div>
                         <li><a href="gallery.php#wowslider-container1">Gallery</a></li>
                         <li class="active"><a href="courses.php">Courses</a></li>
-						<li><a href="about2.php">About Us</a></li>
+						<li><a href="about.php">About Us</a></li>
                         <li><a href="bio.php">Bio</a></li>
 						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
@@ -191,7 +191,7 @@
                   echo "<table border='3' class='stats' cellspacing='0'>
 
             <tr>
-            <td class='hed' colspan='5' class='uppercase'><strong>Free Courses</strong></td>
+            <td class='hed' colspan='5' class='uppercase'><strong>Computing Courses</strong></td>
               </tr>
 
              <tr>
@@ -205,10 +205,10 @@
 
               echo "<tr>";
                   echo "<td>" . "CCOM 4401" . "</td>";
-                  echo "<td>" . "Mobile Applications Development". " "."" . "</td>";
+                  echo "<td>" . "Mobile Application Development". " "."" . "</td>";
                   echo "<td>" . "3" . "</td>";
-                  echo "<td>" . "This course provides fundamental principles of the design and development of mobile applications. " . "</td>";
-                  echo "<td>" . "CCOM 4005 and CCOM 3027 or C# Programming " . "</td>";
+                  echo "<td>" . "The course provides the principles of designing and developing a software application for handheld devices." . "</td>";
+                  echo "<td>" . "CCOM 4005 and either CCOM 3027 or C# Programming " . "</td>";
               echo "</tr>";
 
               //Fila 4, información persona #2
@@ -216,7 +216,7 @@
                   echo "<td>" . "CCOM 4420" . "</td>";
                   echo "<td>" . "Cloud Computing Applications " . "</td>";
                   echo "<td>" . "3" . "</td>";
-                  echo "<td>" . "This course provides principles of design of software applications for ubiquos devices  connected to Web-based cloud computing systems.   " . "</td>";
+                  echo "<td>" . "The course	provides the principles	of designing and developing	a	software application for a ubiquitous	device connected to	Web-based	cloud	computing	systems.	 " . "</td>";
                   echo "<td>" . "CCOM 4401 or CCOM 4019 " . "</td>";
               echo "</tr>";
 
@@ -225,31 +225,31 @@
                   echo "<td>" . "CCOM 4125" . "</td>";
                   echo "<td>" . "Artificial intelligence  " . "</td>";
                   echo "<td>" . "3 " . "</td>";
-                  echo "<td>" . "Introduction to the concepts and techniques of Artificial Intelligence systems and their basic applications.  " . "</td>";
+                  echo "<td>" . "Introduction to the concepts and techniques of artificial intelligence systems and their basic applications.  " . "</td>";
                   echo "<td>" . "CCOM 4006 and MATE 3026 " . "</td>";
               echo "</tr>";
 
               echo "<tr>";
                   echo "<td>" . "CCOM 3985 " . "</td>";
-                  echo "<td>" . "Research undergraduate in computer science topics  " . "</td>";
+                  echo "<td>" . "Undergraduate Research on Computer Science Topics  " . "</td>";
                   echo "<td>" . "2" . "</td>";
                   echo "<td>" . "This course introduces all STEM disciplines students of computer science research process.  " . "</td>";
-                  echo "<td>" . "Approval of the teacher " . "</td>";
+                  echo "<td>" . "Approval of the professor" . "</td>";
               echo "</tr>";
 
               echo "<tr>";
                   echo "<td>" . "CCOM 4991 " . "</td>";
-                  echo "<td>" . "Independent Study I " . "</td>";
-                  echo "<td>" . "They vary  " . "</td>";
+                  echo "<td>" . "Independent Studies I " . "</td>";
+                  echo "<td>" . "Vary 1-6  " . "</td>";
                   echo "<td>" . "Research and development of solutions to a problem of computer sciences, selected by the student and teacher alike. " . "</td>";
                   echo "<td>" . "12 approved credits in computer science, approved by the director of the Department.  " . "</td>";
               echo "</tr>";
 
             echo "<tr>";
                   echo "<td>" . "CCOM 4992 " . "</td>";
-                  echo "<td>" . "Independent Study II " . "</td>";
-                  echo "<td>" . "They vary " . "</td>";
-                  echo "<td>" . "Continuation of CCOM 4991 " . "</td>";
+                  echo "<td>" . "Independent Studies II " . "</td>";
+                  echo "<td>" . "Vary 1-6 " . "</td>";
+                  echo "<td>" . "Continue research and development from CCOM 4191 " . "</td>";
                   echo "<td>" . "CCOM 4991 " . "</td>";
               echo "</tr>";
 

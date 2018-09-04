@@ -13,6 +13,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>CAM &mdash; Proyectos</title>
+	<link rel="shortcut icon" href="images/cam.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Laboratorio de enseñanza e investigación subgraduada, para el desarrollo de aplicaciones de sistemas móviles" />
 	<meta name="keywords" content="Desarrollo Móvil, Investigaciones, Entre otras..." />
@@ -135,7 +136,7 @@
                         </div>
                         <li><a href="galeria.php#wowslider-container1">Galería</a></li>
                         <li><a href="cursos.php">Cursos</a></li>
-						<li><a href="about2.php">Sobre Nosotros</a></li>
+						<li><a href="about.php">Sobre Nosotros</a></li>
 						<li><a href="contact.php">Contáctanos</a></li>
 					</ul>
 				</div>
@@ -166,7 +167,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
+						<div class="display-tc animate-box" data-animate-effect="fadeIn" align="center">
 							<h1 id="activo">Proyectos Activos</h1>
 						</div>
 					</div>
@@ -218,7 +219,7 @@
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
+						<div class="display-tc animate-box" data-animate-effect="fadeIn" align="center">
 							<h1>Proyectos Pasados</h1>
 						</div>
 					</div>

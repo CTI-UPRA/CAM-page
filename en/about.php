@@ -12,10 +12,11 @@
         </script>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>CAM &mdash; Acerca de</title>
+	<link rel="icon" href="/images/cam.png">
+	<title>CAM &mdash; About Us</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by gettemplates.co" />
-	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="description" content="Undergraduate teaching and research laboratory, for the development of mobile applications system"/>
+	<meta name="keywords" content="Mobile Development, Research, Among others ..." />
 	<meta name="author" content="gettemplates.co" />
 
 	<!--
@@ -98,10 +99,10 @@
 <meta name="twitter:creator" content="@mukeshjakhar888" />
 <meta property="DC.date.issued" content="2017-05-03T20:55:56+00:00" />
 
-<link rel="icon" href="http://www.phpkida.com/wp-content/uploads/2015/11/phpkida-new-logo-150x150.png" sizes="32x32" />
+<!-- <link rel="icon" href="http://www.phpkida.com/wp-content/uploads/2015/11/phpkida-new-logo-150x150.png" sizes="32x32" />
 <link rel="icon" href="http://www.phpkida.com/wp-content/uploads/2015/11/phpkida-new-logo.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="http://www.phpkida.com/wp-content/uploads/2015/11/phpkida-new-logo.png" />
-<meta name="msapplication-TileImage" content="http://www.phpkida.com/wp-content/uploads/2015/11/phpkida-new-logo.png" />
+<meta name="msapplication-TileImage" content="http://www.phpkida.com/wp-content/uploads/2015/11/phpkida-new-logo.png" /> -->
 
 
 <style>
@@ -201,13 +202,13 @@ label.line{
     transform: translate3d( 0px, 0px, 0px );
 }
 ul.social-icons li {
-	display:inline-block;	
+	display:inline-block;
 }
 ul.social-icons li  a{
 	font-size:16px;
 	color:#fff;
 	border:1px solid #fff;
-	display:inline-block;	
+	display:inline-block;
 	margin:0 5px;
 }
 ul.social-icons li  a .fa{
@@ -298,139 +299,10 @@ ul.social-icons li  a .fa-linkedin:hover{
 		padding: 5em 0;
 	}
 }
-</style>
- <style>      
-     @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
 
-body {
-    font-family: 'Source Sans Pro', sans-serif;
-    line-height: 1.5;
-    color: #323232;
-    font-size: 15px;
-    font-weight: 400;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-font-smoothing: antialiased;
-}
-.heading-title {
-    margin-bottom: 100px;
-}
-.text-center {
-    text-align: center;
-}
-.heading-title h3 {
-    margin-bottom: 0;
-    letter-spacing: 2px;
-    font-weight: normal;
-}
-.p-top-30 {
-    padding-top: 30px;
-}
-.half-txt {
-    width: 60%;
-    margin: 0 auto;
-    display: inline-block;
-    line-height: 25px;
-    color: #7e7e7e;
-}
-.text-uppercase {
-    text-transform: uppercase;
-}
-
-.team-member, .team-member .team-img {
-    position: relative;
-     width: 80%;
-    height: auto;
-}
-.team-member {
-    overflow: hidden;
-}
-
-.team-hover {
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    margin: 0;
-    border: 20px solid rgba(0, 0, 0, 0.1);
-    background-color: rgba(255, 255, 255, 0.90);
-    opacity: 0;
-    -webkit-transition: all 0.3s;
-    transition: all 0.3s;
-}
-.team-member:hover .team-hover .desk {
-    top: 35%;
-}
-.team-member:hover .team-hover, .team-member:hover .team-hover .desk, .team-member:hover .team-hover .s-link {
-    opacity: 1;
-}
-.team-hover .desk {
-    position: absolute;
-    top: 0%;
-    width: 100%;
-    opacity: 0;
-    -webkit-transform: translateY(-55%);
-    -ms-transform: translateY(-55%);
-    transform: translateY(-55%);
-    -webkit-transition: all 0.3s 0.2s;
-    transition: all 0.3s 0.2s;
-    padding: 0 20px;
-}
-.desk, .desk h4, .team-hover .s-link a {
-    text-align: center;
-    color: #222;
-}
-.team-member:hover .team-hover .s-link {
-    bottom: 10%;
-}
-.team-member:hover .team-hover, .team-member:hover .team-hover .desk, .team-member:hover .team-hover .s-link {
-    opacity: 1;
-}
-.team-hover .s-link {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    opacity: 0;
-    text-align: center;
-    -webkit-transform: translateY(45%);
-    -ms-transform: translateY(45%);
-    transform: translateY(45%);
-    -webkit-transition: all 0.3s 0.2s;
-    transition: all 0.3s 0.2s;
-    font-size: 35px;
-}
-.desk, .desk h4, .team-hover .s-link a {
-    text-align: center;
-    color: #222;
-}
-.team-member .s-link a {
-    margin: 0 10px;
-    color: #333;
-    font-size: 16px;
-}
-.team-title {
-    position: static;
-    padding: 20px 0;
-    display: inline-block;
-    letter-spacing: 2px;
-    width: 100%;
-}
-.team-title h5 {
-    margin-bottom: 0px;
-    display: block;
-    text-transform: uppercase;
-}
-.team-title span {
-    font-size: 12px;
-    text-transform: uppercase;
-    color: #a5a5a5;
-    letter-spacing: 1px;
-}
-
-     .dropbtn {
+.dropbtn {
     background-color: transparent;
-    color: 999A9B;
+    color: #999A9B;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -466,11 +338,10 @@ body {
 .dropdown:hover .dropbtn {
     background-color: #2874A6;
     color: #fff;
-    
 }
-</style> 
+</style>
+</head>
 
-    </head>
 	<body>
 
 	<div class="fh5co-loader"></div>
@@ -486,20 +357,21 @@ body {
 				<!--Container con referencias a las diferentes páginas, especifica la página activa-->
 				<div class="col-xs-10 text-right menu-1">
 					<ul>
-						<li><a href="index.php">Inicio</a></li>
+						<!--<li><a href="index.php">Home</a></li>-->
 						<!--<li><a href="proyectos.php">Proyectos</a></li>-->
                         <div class="dropdown">
-                            <button class="dropbtn"><a href="proyectos.php">Proyectos</a></button>
+							<li ><a href="projects.php">Projects</a></li>
                           <div class="dropdown-content">
                             <a href="apps.php#lobo">Pregunta Lobo</a>
                             <a href="apps.php#stem">Stem Apps</a>
-                            <a href="apps.php#guarida">Guarida</a>
+                            <a href="apps.php#guarida">Guarida Lobo</a>
                           </div>
                         </div>
-                        <li><a href="galeria.php#wowslider-container1">Galería</a></li>
-                        <li><a href="cursos.php">Cursos</a></li>
-						<li><a href="about.php">Sobre Nosotros</a></li>
-						<li><a href="contact.php">Contáctanos</a></li>
+                        <li><a href="gallery.php#wowslider-container1">Gallery</a></li>
+                        <li><a href="courses.php">Courses</a></li>
+						<li class="active"><a href="about.php">About Us</a></li>
+						<li><a href="bio.php">Bio</a></li>
+						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>
@@ -514,7 +386,7 @@ body {
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Sobre Nosotros</h1>
+							<h1>About Us</h1>
 						</div>
 					</div>
 				</div>
@@ -531,16 +403,17 @@ body {
 					</div>
 					<div class="col-md-6 col-md-6">
 						<div class="desc">
-							<h3>Centro de Aplicaciones Móviles</h3>
-							<p>El Centro de Aplicaciones Móviles (CAM) es un laboratorio de enseñanza e investigación subgraduada, para el desarrollo de aplicaciones de sistemas móviles (apps), que le provee a la Universidad de Puerto Rico en Arecibo (UPRA) soluciones tecnológicas para servicios de su comunidad y experiencias enriquecedoras a sus estudiantes.</p>
+							<h3>Mobile Applications Center</h3>
+							<p align="center">
+							The Centro de Aplicaciones Móviles (CAM) is a laboratory for education and undergraduate research, and the development of applications for mobile systems (apps), which provides technological solutions to the University of Puerto Rico at Arecibo (UPRA) for services in our community and enriching experiences for their students. </p>
 						</div>
 						<div class="desc">
-							<h3>Misión</h3>
-							<p>La misión del CAM es servir como la cuna de innovaciones tecnológicas móviles de la UPRA.</p>
+							<h3>Mission</h3>
+							<p align="center">The Mission of the CAM is to serve as the source of mobile innovations of UPRA.</p>
 						</div>
 						<div class="desc">
-							<h3>Visión</h3>
-							<p>La visión del CAM es preparar a los estudiantes para una carrera exitosa en computación móvil.</p>
+							<h3>Vision</h3>
+							<p align="center">The vision of the CAM is to prepare students for a successful career in mobile computing.</p>
 						</div>
                     </div>
 				</div>
@@ -555,323 +428,340 @@ body {
 					<div class="fh5co-staff">
 						<img src="images/Edward_Latorre.jpg" alt="Free HTML5 Templates by gettemplates.co">
 						<h3>Edward Latorre Navarro, Ph.D.</h3>
-						<p>Catedrático Auxiliar <br>
-						   Doctorado en Filosofía y Letras <br>
-						   Ingeniería Eléctrica y de Computadoras <br>
+						<p>Assistant Professor <br>
+						   Doctorate's in Philosophy and Letters  <br>
+						   Electrical and Computer Engineering  <br>
 						   University of Florida, Gainesville, FL</p>
 					</div>
 				</div>
             </div>
             <br>
-           <div class="container">
-                    <div class="row">
-                        <div class="heading-title text-center">
-                            <h3 class="text-uppercase">Estudiantes Activos </h3>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student2.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Erick Rivera</h5>
-                                <span>Pregunta Lobo, UPRA Calendar</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student4.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Yessebell Ríos</h5>
-                                <span>La Guarida, STEM Apps</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student1.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Bryan Hernández</h5>
-                                <span>La Guarida, Machine Learning, STEM Apps</span>
-                            </div>
-                        </div>
-                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student3.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Elliot López</h5>
-                                <span>Machine Learning, STEM Apps</span>
-                            </div>
-                        </div>
-                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student6.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Rafael J. Sierra Soto</h5>
-                                <span>Backend Developer</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student8.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Ramón Medina </h5>
-                                <span>Pregunta Lobo(Android)</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student9.png" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Rafael E. Colón </h5>
-                                <span>La Guarida</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student11.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Javier Olmo</h5>
-                                <span>Machine Learning</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student12.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Gabriel Vélez</h5>
-                                <span>Pregunta Lobo(iOS)</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student13.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Kelvin López</h5>
-                                <span>Pregunta Lobo(Android)</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-              
-             <div class="container">
-                    <div class="row">
-                        <div class="heading-title text-center">
-                            <h3 class="text-uppercase">Estudiantes Egresados </h3>
-                        </div>
-
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/daniel.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Daniel Damudt</h5>
-                                <span>Pregunta Lobo(Android)</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student7.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Krystal Medina</h5>
-                                <span>UPRA Calendar</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student5.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Yaraliz Mercado</h5>
-                                <span>Pregunta Lobo(iOS)</span>
-                            </div>
-                        </div>
-                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student10.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Cheylianie Rivera</h5>
-                                <span>Pregunta Lobo(iOS)</span>
-                            </div>
-                        </div>
-                         <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student14.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Giselle Montano</h5>
-                                <span>Music System</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/male1.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Emmanuel Castro</h5>
-                                <span>Software Developer en INVID, LLC</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/male1.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Frankie Coll Varela</h5>
-                                <span>Pregunta Lobo</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student16.png" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Carlos Nieves Cardona</h5>
-                                <span>Associate Professional Web Developer en DXC Technology</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/female1.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Delma I. Nieves Rivera</h5>
-                                <span>Pregunta Lobo</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/female1.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Ana C. Rodríguez Medina</h5>
-                                <span>Pregunta Lobo</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student15.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Amaury Rodríguez Rivera</h5>
-                                <span>Pregunta Lobo</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/female1.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Angélica M. Rosario Maisonet</h5>
-                                <span>Analista/Programador en Multisystems</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/student17.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Samuel Santiago Soto</h5>
-                                <span>Associate Professional Web Developer en DXC Technology</span>
-                            </div>
-                        </div>
-                        <div class="col-md-4 col-sm-4">
-                            <div class="team-member">
-                                <div class="team-img">
-                                    <img src="images/male1.jpg" alt="team member" class="img-responsive">
-                                </div>
-                            </div>
-                            <div class="team-title">
-                                <h5>Ezequiel Santos Freytes</h5>
-                                <span>Fullstack Developer en PIXNABI LAB</span>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </div>
-          
-        
-            
-    </div>
-</div>
-
-      <!--Container de footer que incluye la información de quien creo la página, el acerca de y contactános-->
-			<footer id="fh5co-footer" role="contentinfo">
-				<div class="overlay"></div>
-				<div class="container">
-					<div class="row row-pb-md">
-						<div class="col-md-3 fh5co-widget">
-						<div id="copyright" class="container">
-														<div style="text-align: center">
-									<p>&copy; Copyright 2017 CAM, <a href="contact.php">Webmaster: Leilanie Morales</a></p>
-																<p>Centro de Aplicaciones Móviles, Departamento de Ciencias de Computadoras,
-																Universidad de Puerto Rico en Arecibo</p>
-																	 <p><a href="http://upra.edu/computadoras/index.html"><img src="images/ccom.jpg"></a>
-																	 <a href="http://upra.edu/"><img src="images/upra.png"></a></p>
-														</div>
-							</div>
+    <!-- team -->
+		<div class="team" id="team">
+			<div class="container">
+				<h3>Active Students</h3>
+				<label class="line"></label>
+				<div class="agile_team_grids">
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/kevinAlicea3.png" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Kevin Alicea</h4>
+							<p>Pregunta Lobo(Android)</p><br>
 						</div>
 					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/kelvin.png" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Kelvin López</h4>
+							<p>Pregunta Lobo(Android)</p><br>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/siul.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Siul López</h4>
+							<p>STEM Apps</p><br>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/krystal.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Krystal Medina</h4>
+							<p>iOS Developer</p><br>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/ramon.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Ramón Medina</h4>
+							<p>Pregunta Lobo(Android) and STEM Apps</p><br>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/leilanie.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Leilanie Morales</h4>
+							<p>STEM Apps and Guarida Lobo</p><br>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/yadiel.jpeg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Yadiel Nieves</h4>
+							<p>Guarida Lobo</p><br>
+						</div>
+					</div>
+	        <div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/gabriel.png" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Gabriel Vélez</h4>
+							<p>Pregunta Lobo(iOS)</p><br>
+						</div>
+					</div>
+
+					<div class="clearfix"> </div>
 				</div>
-			</footer>
+			</div>
+		</div>
+	<!-- //team -->
+	<!-- team -->
+		<div class="team" id="team">
+			<div class="container">
+				<h3>Graduate Students</h3>
+				<label class="line"></label>
+
+				<div class="agile_team_grids">
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/emmanuel.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Emmanuel Castro</h4>
+							<p>Pregunta Lobo</p>
+							<p>Software Developer at INVID, LLC</p>
+						</div>
+					</div>
+
+				<div class="col-md-4 agile_team_grid agile3">
+					<div class="agile_team_grid_main">
+						<img src="images/frankie.jpg" alt=" " class="img-responsive" />
+					</div>
+					<div class="agile_team_grid1">
+						<h4>Frankie Coll Varela</h4>
+						<p>Pregunta Lobo</p><br>
+						<p>             </p>
+					</div>
+				</div>
+				<div class="col-md-4 agile_team_grid agile3">
+					<div class="agile_team_grid_main">
+						<img src="images/rafael_c.jpg" alt=" " class="img-responsive" />
+					</div>
+					<div class="agile_team_grid1">
+						<h4>Rafael E. Colón</h4>
+						<p>Guarida Lobo</p><br>
+						<p>                      </p>
+					</div>
+				</div>
+				<div class="col-md-4 agile_team_grid agile1">
+					<div class="agile_team_grid_main">
+						<img src="images/daniel_damudt.jpg" alt=" " class="img-responsive" />
+					</div>
+					<div class="agile_team_grid1">
+						<h4>Daniel Damudt</h4>
+						<p>Pregunta Lobo(Android)</p>
+						<p>Systems Engineer, Infosys</p>
+					</div>
+				</div>
+					<div class="col-md-4 agile_team_grid agile1">
+						<div class="agile_team_grid_main">
+							<img src="images/bryan.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Bryan Hernández</h4>
+							<p>Guarida Lobo, Machine Learning, STEM Apps</p>
+							<p>HCI, University of Alabama</p>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/elliot.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Elliot López</h4>
+							<p>Machine Learning and STEM Apps</p><br>
+							<p>                      </p>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile2">
+						<div class="agile_team_grid_main">
+							<img src="images/yaraliz.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Yaraliz Mercado</h4>
+							<p>Pregunta Lobo(iOS)</p>
+							<p>Database Management, Island Wide</p>
+						</div>
+					</div>
+					<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/giselle.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Giselle Montano</h4>
+							<p>Music System</p>
+							<p>Systems Engineer, Lookheed Martin NJ<p>
+						</div>
+					</div>
+				<div class="col-md-4 agile_team_grid agile3">
+	 				<div class="agile_team_grid_main">
+		 				<img src="images/carlos.jpg" alt=" " class="img-responsive" />
+	 				</div>
+	 				<div class="agile_team_grid1">
+		 				<h4>Carlos Nieves Cardona</h4>
+		 				<p> Pregunta Lobo(Android) </p>
+		 				<p>Web Developer, DXC Technology</p>
+	 				</div>
+				</div>
+				<div class="col-md-4 agile_team_grid agile3">
+	 				<div class="agile_team_grid_main">
+		 				<img src="images/delma.png" alt=" " class="img-responsive" />
+	 				</div>
+	 				<div class="agile_team_grid1">
+		 				<h4>Delma I. Nieves Rivera</h4>
+		 				<p>Pregunta Lobo(Android)</p>
+		 				<p>Ph.D Student, Computer Science</p>
+	 				</div>
+				</div>
+			 <div class="col-md-4 agile_team_grid agile3">
+				 <div class="agile_team_grid_main">
+					 <img src="images/javier.jpg" alt=" " class="img-responsive" />
+				 </div>
+				 <div class="agile_team_grid1">
+					 <h4>Javier Olmo</h4>
+					 <p>Machine Learning</p>
+					 <p>Software Developer, Rock Solid Tech.</p>
+				 </div>
+			 </div>
+			 <div class="col-md-4 agile_team_grid agile3">
+			 	<div class="agile_team_grid_main">
+			 		<img src="images/yessebel.jpg" alt=" " class="img-responsive" />
+			 	</div>
+			 	<div class="agile_team_grid1">
+			 		<h4>Yessebell Ríos</h4>
+			 		<p>Guarida Lobo and STEM Apps</p>
+			 		<p>Infosys</p>
+			 	</div>
+			 </div>
+			 <div class="col-md-4 agile_team_grid agile3">
+					<div class="agile_team_grid_main">
+						<img src="images/cheylianie.jpg" alt=" " class="img-responsive" />
+					</div>
+					<div class="agile_team_grid1">
+						<h4>Cheylianie Rivera</h4>
+						<p>Pregunta Lobo(iOS)</p>
+						<p>Software Engineer, Lookheed Martin</p>
+					</div>
+				</div>
+			 <div class="col-md-4 agile_team_grid agile2">
+					<div class="agile_team_grid_main">
+						<img src="images/erick.jpg" alt=" " class="img-responsive" />
+					</div>
+					<div class="agile_team_grid1">
+						<h4>Erick Rivera</h4>
+						<p>Pregunta Lobo and UPRA Calendar</p>
+						<p>Software Developer, Inteldot</p>
+					</div>
+			 </div>
+			<div class="col-md-4 agile_team_grid agile3">
+		 	 	<div class="agile_team_grid_main">
+		 			<img src="images/female1.jpg" alt=" " class="img-responsive" />
+		 		</div>
+		 		<div class="agile_team_grid1">
+		 			<h4>Ana C. Rodríguez</h4>
+		 			<p>Pregunta Lobo</p><br>
+		 			<p>                      </p>
+		 		</div>
+		 	</div>
+			<div class="col-md-4 agile_team_grid agile3">
+				<div class="agile_team_grid_main">
+					<img src="images/angelica.jpg" alt=" " class="img-responsive" />
+				</div>
+				<div class="agile_team_grid1">
+					<h4>Angélica M. Rosario</h4>
+					<p>Pregunta Lobo</p>
+					<p>Analyst/Programmer, Multisystems</p>
+				</div>
+			</div>
+			<div class="col-md-4 agile_team_grid agile3">
+				<div class="agile_team_grid_main">
+					<img src="images/amaury.jpg" alt=" " class="img-responsive" />
+				</div>
+				<div class="agile_team_grid1">
+					<h4>Amaury Rodríguez Rivera</h4>
+					<p>Pregunta Lobo(iOS)</p>
+					<p>Analyst/Programmer, Multisystems</p>
+				</div>
+			</div>
+			<div class="col-md-4 agile_team_grid agile3">
+				<div class="agile_team_grid_main">
+					<img src="images/samuel.jpg" alt=" " class="img-responsive" />
+				</div>
+				<div class="agile_team_grid1">
+					<h4>Samuel Santiago Soto</h4>
+					<p>Pregunta Lobo</p>
+					<p>Web Developer, DXC Technology</p>
+				</div>
+			</div>
+			<div class="col-md-4 agile_team_grid agile3">
+				<div class="agile_team_grid_main">
+					<img src="images/ezequiel.jpg" alt=" " class="img-responsive" />
+				</div>
+				<div class="agile_team_grid1">
+					<h4>Ezequiel Santos Freytes</h4>
+					<p>Pregunta Lobo(Android)</p>
+					<p>Fullstack Developer, PIXNABI LAB</p>
+				</div>
+			</div>
+			<div class="col-md-4 agile_team_grid agile3">
+						<div class="agile_team_grid_main">
+							<img src="images/rafael_s.jpg" alt=" " class="img-responsive" />
+						</div>
+						<div class="agile_team_grid1">
+							<h4>Rafael J. Sierra</h4>
+							<p>Backend Developer</p>
+							<p>Full-Stack Developer, Inteldot & Cinco Eng.</p>
+						</div>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+	<!-- //team -->
+<!-- //team -->
+                    </div>
+
+                </div>
+
+
+
+
+    </div>
+
+      <!--Container de footer que incluye la información de quien creo la página, el acerca de y contactános-->
+	  <footer id="fh5co-footer" role="contentinfo">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-3 fh5co-widget">
+				<div id="copyright" class="container">
+				        <div style="text-align: center">
+							<p>&copy; Copyright 2017 CAM, <a href="contact.php">Webmaster: Leilanie Morales</a></p>
+														<p>Mobile Applications Center, Computer Science Department,
+														University of Puerto Rico in Arecibo</p>
+															 <p><a href="http://upra.edu/computadoras/index.html"><img src="images/ccom.jpg"></a>
+															 <a href="http://upra.edu/"><img src="images/upra.png"></a></p>
+				        </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
 	</div>
 
     <!--Librerías necesarias para correr la página-->

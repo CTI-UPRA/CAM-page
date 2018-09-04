@@ -13,6 +13,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>CAM &mdash; Contáctanos</title>
+	<link rel="shortcut icon" href="images/cam.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Laboratorio de enseñanza e investigación subgraduada, para el desarrollo de aplicaciones de sistemas móviles" />
 	<meta name="keywords" content="Desarrollo Móvil, Investigaciones, Entre otras..." />
@@ -131,7 +132,7 @@
                         </div>
                         <li><a href="galeria.php#wowslider-container1">Galería</a></li>
                         <li><a href="cursos.php">Cursos</a></li>
-						<li><a href="about2.php">Sobre Nosotros</a></li>
+						<li><a href="about.php">Sobre Nosotros</a></li>
 						<li class="active"><a href="contact.php">Contáctanos</a></li>
 					</ul>
 				</div>

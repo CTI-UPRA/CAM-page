@@ -129,12 +129,13 @@
                           <div class="dropdown-content">
                             <a href="apps.php#lobo">Pregunta Lobo</a>
                             <a href="apps.php#stem">Stem Apps</a>
-                            <a href="apps.php#guarida">Guarida</a>
+                            <a href="apps.php#guarida">Guarida Lobo</a>
                           </div>
                         </div>
                         <li><a href="gallery.php#wowslider-container1">Gallery</a></li>
                         <li><a href="courses.php">Courses</a></li>
-						<li><a href="about2.php">About Us</a></li>
+						<li><a href="about.php">About Us</a></li>
+							<li><a href="bio.php">Bio</a></li>
 						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
 				</div>
@@ -174,105 +175,140 @@
 				</div>
 			</div>
 		</div>
-                <br>
-                        <div style="text-align: center">
-                                <img src="images/pregunt_lobo_android.png" height="500" width="300">
-                                <img src="images/pregunta_lobo_ios.jpg" height="500" width="300">
-                        </div>
-                        <br>
-                        <div class="row">
-                            <div style="text-align: center">
-                                    <div style="text-align: center">
-                                    <p>
-                                    Pregunta Lobo is the virtual assistant of the community of UPRA <br> where users can get information related to UPRA  using  an <br>interface in natural language, in addition to an <br>interactive map with informationon each location  <br>and an informative list of the student organizations. </p>
-                                    </div>
-                            </div>
-                            <br>
-                            <div class="row">
-                                <div style="text-align: center">
-                                    <h3>Sponsors</h3>
-                                    <img src="images/banner.jpg" height="50px" width="200px">
-                                    <p>This project is partially sponsored by the  <br> <a href="http://upra.edu/cic/">Research and Creation Center  (CIC)</a> of UPRA <br>  and the<a href="https://prlsamp.rcse.upr.edu/" >Puerto Rico Louis Stokes Alliance <br> For Minority Participation (PR-LSAMP)</a></p>
-                                </div>
-                                <div style="text-align: center">
-                                    <p><a href="https://itunes.apple.com/us/app/pregunta-lobo/id1111304803?mt=8" target="_blank">
-                                      <img id="icon1" src="Icons/the_App_Store_Badge.svg" ></a>
+    <br>
 
-                                    <a href="https://play.google.com/store/apps/details?id=com.upra.preguntalobo&hl=es_41" target="_blank">
-                                      <img id="icon2" src="Icons/es_badge_web_generic.png" style="width:155px; height:60px"></a></p>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div style="text-align: center">
-                                    <h3>Poster</h3>
-                                    <img src="images/preguntaLobo.png" height="300px" width="300px">
-                                </div>
-                            </div>
-        <br>
+    	<div style="text-align: center">
+        <img src="images/pregunt_lobo_android.png" height="500" width="300">
+        <img src="images/pregunta_lobo_ios.jpg" height="500" width="300">
+      </div>
+      <br>
+      <div class="row">
+        <div style="text-align: center">
+        	<div style="text-align: center">
+        		<p>Pregunta Lobo is the virtual assistant of the UPRA community <br> where users can get information related to UPRA  using  an <br>interface in natural language, in addition to an <br>interactive map with information on each location  <br>and an informative list of the student organizations. </p>
+        	</div>
+      </div>
+      <br>
+			<div class="container">
+				<div class="row">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 text-center">
+								<div class="display-t">
+									<div class="display-tc animate-box" data-animate-effect="fadeIn">
+										<h2 id="calendar">UPRA Calendar</h2>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<br>
+
+					<div style="text-align: center">
+						<img src="images/plc.png" height="500" width="300">
+						<img src="images/plc2.png" height="500" width="300">
+					</div>
+					<br>
+					<div class="row">
+						<div style="text-align: center">
+							<div class="col-sm-12">
+								<div style="text-align: center">
+									<p>  This application will provide students a dynamic calendar of <br>
+										   events of UPRA. The user can choose and filter the information<br>
+										   and relevant notifications. The application also allows the user <br>
+										   to find information about upcoming dates and save them on your <br>
+										   Mobile calendar. </p>
+								</div>
+							</div>
+					  </div>
+				  </div>
+				</div>
+			</div>
+
+			<div class="row">
+					<div style="text-align: center">
+							<h3>Sponsors</h3>
+							<img src="images/banner.jpg" height="50px" width="200px">
+							<p>This project is partially sponsored by the <br> <a href="http://upra.edu/cic/">Research and Creation Center (CIC)</a> of UPRA <br>  and the <a href="https://prlsamp.rcse.upr.edu/" >Puerto Rico Louis Stokes Alliance <br> For Minority Participation (PR-LSAMP)</a></p>
+					</div>
+					<div style="text-align: center">
+							<p><a href="https://itunes.apple.com/us/app/pregunta-lobo/id1111304803?mt=8" target="_blank">
+								<img id="icon1" src="Icons/badge.svg" ></a>
+
+							<a href="https://play.google.com/store/apps/details?id=com.upra.preguntalobo&hl=es_41" target="_blank">
+								<img id="icon2" src="Icons/en_badge_web_generic.png" style="width:155px; height:60px"></a></p>
+					</div>
+			</div>
+			<div class="row">
+					<div style="text-align: center">
+							<h3>Poster</h3>
+							<a href="http://cam.upra.edu/en/images/preguntaLobo.png" target="_blank">
+								<img src="images/preguntaLobo.png" height="220px" width="250px" border="0" align="center" src="/">
+							</a>
+					</div>
+			</div>
+      <br>
+    <div class="container">
+			<div class="row">
         <div class="container">
-			<div class="row">
-                <div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1 id="stem">STEM Apps</h1>
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2 text-center">
+							<div class="display-t">
+								<div class="display-tc animate-box" data-animate-effect="fadeIn">
+									<h1 id="stem">STEM Apps</h1>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-                <br>
+      	<br>
 
-                        <div style="text-align: center">
-                                <img src="images/Biology%20Dogma_2017-05-18-16-30-10.png" height="300" width="400">
-                                <img src="images/Biology%20Dogma_2017-05-18-16-28-55.png" height="300" width="400">
-                        </div>
-                        <br>
-                        <div class="row">
-                            <div style="text-align: center">
-                                <div class="col-sm-6">
-                                    <div style="text-align: right">
-                                    <p>The objective of this research is <br>
-                                        to create mobile applications <br>
-                                        that are use for both <br>
-                                        professors and students of <br>
-                                        the areas of science, technology, <br>
-                                        Engineering and Math (STEM). </p>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-8-push">
-                                    <p>This gives students of Computer <br>
-                                       Science experience with different <br>
-                                       types of people and help them <br>
-                                       enhance their understanding of <br>
-                                    other requests areas. </p>
+              <div style="text-align: center">
+                <img src="images/Biology%20Dogma_2017-05-18-16-30-10.png" height="300" width="400">
+                <img src="images/Biology%20Dogma_2017-05-18-16-28-55.png" height="300" width="400">
+              </div>
+              <br>
+              <div class="row">
+                <div style="text-align: center">
+                  <div class="col-sm-6">
+                    <div style="text-align: right">
+                      <p>The objective of this research is <br>
+                         to create mobile applications for <br>
+                         students and professors of the  </br>
+                         areas of Science, Technology, <br>
+                     </p>
+										</div>
+                  </div>
+                </div>
+              	<div class="col-sm-8-push">
+                    <p>Engineering and Math (STEM). </br>
+											This project provides students in </br>
+											Computer science the oportunity to </br>
+											work with students of other STEM areas.<br>
 						    </div>
-                        </div>
-                        <div class="row">
-                            <div style="text-align: center">
-                                    <h3>Students Blog</h3>
-                                    <a href="https://yessebellcreu.wordpress.com/">Yessebell Ríos Blog</a><br>
-                                    <a href="https://bryanyomarcreu.wordpress.com/">Bryan Hernández Blog</a><br>
-                                    <a href="https://elliotlopezblog.wordpress.com/category/collaborative-research-experience-for-undergraduates/">Elliot López Blog</a>
-                                </div><br>
-                                <div style="text-align: center">
-                                    <h3>Sponsors</h3>
-                                    <img src="images/banner.jpg" height="50px" width="200px">
-                                    <img src="images/cra_w.png" height="50px" width="200px">
-                                    <p>This project is partially sponsored by the <br> <a href="http://upra.edu/cic/">Research and Creation Center (CIC)</a> of UPRA, <br>  the <a href="https://cra.org/cra-w/" >Computing Research Association’s Committee on <br> the Status of Women in Computing Research (CRA-W) </a> <br> and the <a href="https://prlsamp.rcse.upr.edu/" >Puerto Rico Louis Stokes Alliance <br> For Minority Participation (PR-LSAMP)</a></p>
-                                </div>
-                                <div style="text-align: center">
-                                    <p><a href="https://itunes.apple.com/us/app/biology-dogma/id1220523791?mt=8" target="_blank">
-                                      <img id="icon1" src="Icons/the_App_Store_Badge.svg" ></a>
+              </div>
+              <div class="row">
+                <div style="text-align: center">
+                  <h3>Students Blog</h3>
+                  	<a href="https://yessebellcreu.wordpress.com/">Yessebell Ríos Blog</a><br>
+                  	<a href="https://bryanyomarcreu.wordpress.com/">Bryan Hernández Blog</a><br>
+                  	<a href="https://elliotlopezblog.wordpress.com/category/collaborative-research-experience-for-undergraduates/">Elliot López Blog</a>
+                </div><br>
+                <div style="text-align: center">
+                  <h3>Sponsors</h3>
+                  	<img src="images/banner.jpg" height="50px" width="200px">
+                  	<img src="images/cra_w.png" height="50px" width="200px">
+                    <p>This project is partially sponsored by the <br> <a href="http://upra.edu/cic/">Research and Creation Center (CIC)</a> of UPRA, <br>  the <a href="https://cra.org/cra-w/" >Computing Research Association’s Committee on <br> the Status of Women in Computing Research (CRA-W) </a> <br> and the <a href="https://prlsamp.rcse.upr.edu/" >Puerto Rico Louis Stokes Alliance <br> For Minority Participation (PR-LSAMP)</a></p>
+                </div>
+                <div style="text-align: center">
+                   <p><a href="https://itunes.apple.com/us/app/biology-dogma/id1220523791?mt=8" target="_blank">
+                   <img id="icon1" src="Icons/the_App_Store_Badge.svg" ></a>
 
-                                    <a href="https://play.google.com/store/apps/details?id=org.nativescript.dnanativescript&hl=es_41" target="_blank">
-                                      <img id="icon2" src="Icons/es_badge_web_generic.png" style="width:155px; height:60px"></a></p>
-                                </div>
-                            </div>
+                   <a href="https://play.google.com/store/apps/details?id=org.nativescript.dnanativescript&hl=es_41" target="_blank">
+                   <img id="icon2" src="Icons/en_badge_web_generic.png" style="width:155px; height:60px"></a></p>
+                </div>
             </div>
+          </div>
         </div>
         <br>
         <div class="container">
@@ -282,78 +318,40 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1 id="guarida">La Guarida</h1>
+							<h1 id="guarida">Guarida Lobo</h1>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-                <br>
-
-                        <div style="text-align: center">
-                                <img src="images/guarida1.jpg" height="300" width="425">
-                                <img src="images/guarida2.jpg" height="300" width="425">
-                        </div>
-                        <br>
-                        <div class="row">
-                            <div style="text-align: center">
-                                <div class="col-sm-6">
-                                    <div style="text-align: right">
-                                    <p> The objective of this  research<br>
-                                        is to create a mobile application to <br>
-                                        help find study rooms available<br>
-                                        in the University's library and <br>
-                                        reserve them.  </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-8-push">
-                                    <p> By studying students behavior <br>
-                                        and common problems that may occur<br>
-                                        during the reservations process <br>
-                                        we can create a friendly interface and fast <br>
-                                        for the user, to para counteract negative experiences. </p>
-						    </div>
-                        </div>
-            </div>
-    </div>
+    <br>
+		<div style="text-align: center">
+						<img src="images/guaridaLobo4.jpeg" height="500" width="300">
+						<img src="images/guaridaLobo3.jpeg" height="500" width="300">
+		</div>
         <br>
-        <div class="container">
-			<div class="row">
-                <div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1 id="calendar">UPRA Calendar</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-                <br>
-
-                        <div style="text-align: center">
-															  <img src="images/uCalendar.png"height="325" width="325">
-																<img src="images/Calendar.jpg" height="300" width="425">
-                        </div>
-                        <br>
-                        <div class="row">
-                            <div style="text-align: center">
-                                <div class="col-sm-12">
-                                    <div style="text-align: center">
-                                    <p>  This application will provide students a dynamic calendar of <br>
-                                         events of UPRA. The user can choose and filter the information<br>
-                                         and relevant notifications. The application also allows the user <br>
-                                         to find information about upcoming dates and save them on your <br>
-                                         Mobile calendar. </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+        <div class="row">
+          <div style="text-align: center">
+            <div class="col-sm-6">
+              <div style="text-align: right">
+                <p> The objective of this  research<br>
+                    is to create a mobile application to <br>
+                    help students find available study <br>
+                    rooms in the University's library<br>
+                    and reserve them.  </p>
+              </div>
             </div>
+          </div>
+            <div class="col-sm-8-push">
+              <p> By studying students behavior <br>
+                  and common problems that may occur<br>
+                  during the reservations process <br>
+                  we can create a fast and friendly interface<br>
+                  for the user, to counteract negative experiences. </p>
+						</div>
+         </div>
+    	 </div>
     </div>
-
                 </div>
             </div>
         </div>

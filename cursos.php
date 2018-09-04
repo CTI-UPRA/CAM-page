@@ -13,6 +13,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>CAM &mdash; Proyectos</title>
+	<link rel="shortcut icon" href="images/cam.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Laboratorio de enseñanza e investigación subgraduada, para el desarrollo de aplicaciones de sistemas móviles" />
 	<meta name="keywords" content="Desarrollo Móvil, Investigaciones, Entre otras..." />
@@ -159,7 +160,7 @@
                         </div>
                         <li><a href="galeria.php#wowslider-container1">Galería</a></li>
                         <li class="active"><a href="cursos.php">Cursos</a></li>
-						<li><a href="about2.php">Sobre Nosotros</a></li>
+						<li><a href="about.php">Sobre Nosotros</a></li>
 						<li><a href="contact.php">Contáctanos</a></li>
 					</ul>
 				</div>
@@ -189,7 +190,7 @@
                   echo "<table border='3' class='stats' cellspacing='0'>
 
             <tr>
-            <td class='hed' colspan='5' class='uppercase'><strong>Electivas libres</strong></td>
+            <td class='hed' colspan='5' class='uppercase'><strong>Electivas Departamentales Relacionadas al CAM</strong></td>
               </tr>
 
              <tr>

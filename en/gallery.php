@@ -67,22 +67,22 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
     <style>
-        div.gallery {
-            margin: 5px;
-            border: 1px solid #ccc;
-            float: left;
-            width: 450px;
-        }
+		div.gallery {
+				margin: 5px;
+				border: 1px solid #ccc;
+				float: left;
+				width: 560px;
+		}
 
-        div.gallery img {
-            width: 100%;
-            height: auto;
-        }
+		div.gallery img {
+				width: 100%;
+				height: 350px;
+		}
 
-        div.desc {
-            padding: 15px;
-            text-align: center;
-        }
+		div.desc {
+				padding: 15px;
+				text-align: center;
+		}
 
         .dropbtn {
     background-color: transparent;
@@ -150,12 +150,12 @@
                           <div class="dropdown-content">
                             <a href="apps.php#lobo">Pregunta Lobo</a>
                             <a href="apps.php#stem">Stem Apps</a>
-                            <a href="apps.php#guarida">Guarida</a>
+                            <a href="apps.php#guarida">Guarida Lobo</a>
                           </div>
                         </div>
                         <li class="active"><a href="gallery.php#wowslider-container1">Gallery</a></li>
                         <li><a href="courses.php">Courses</a></li>
-						<li><a href="about2.php">About Us</a></li>
+						<li><a href="about.php">About Us</a></li>
 						<li><a href="bio.php">Bio</a></li>
 						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
@@ -180,101 +180,139 @@
 	</header>
 
 	<div id="fh5co-services">
-		<div class="container">
-			<div class="col-md-18 col-sm-18 animate-box">
-               <div class="row">
-			   <div class="gallery">
-						<img src="images/prism_2018_1.jpg" alt="" width="600" height="400">
-						<div class="desc">2018 PRISM Junior Technical Meeting, Turabo</div>
-					</div>
-			   
-			   </div>
-			    <div class="row">
-					<div class="gallery">
-						<img src="images/bryan_paris3.jpg" alt="" width="600" height="400">
-						<div class="desc">34th IEEE Int. Conf. on Data Engineering 2018, Paris </div>
-					</div>
-					<div class="gallery">
-						<img src="images/ramon_paris3.jpg" alt="" width="600" height="400">
-						<div class="desc">34th IEEE Int. Conf. on Data Engineering 2018, Paris  </div>
-					</div> 
-					<!--2018-->
-					<div class="gallery">
-				        <img src="images/ern1.jpg" alt="" width="600" height="400">
-				        <div class="desc">ERN Conference in STEM 2018, Washington DC</div>
-				    </div>
-					<div class="gallery">
-				        <img src="images/bryan3.jpg" alt="" width="600" height="400">
-				        <div class="desc">ERN Conference in STEM 2018, Washington DC</div>
-				    </div>
-					<!--2016-->
-                    <div class="gallery">
-                        <img src="images/Calendar.jpg" alt="UPRA Calendar" width="600" height="400" >
-                        <div class="desc">UPRA Calendar, 2016 UPRA 2nd Research Symposium</div>
-                    </div>
-                    <div class="gallery">
-                        <img src="images/Music_System.jpg" alt="Music System" width="600" height="400">
-                        <div class="desc">Music System, 2016 UPRA 2nd Research Symposium</div>
-                    </div>
-                    <div class="gallery">
-                        <img src="images/mi-SIS.jpg" alt="mi-SIS" width="600" height="400">
-                        <div class="desc">mi-SIS, 2016 UPRA 2nd Research Symposium</div>
-                    </div>
-                    <div class="gallery">
-                        <img src="images/ProfeScore.jpg" alt="ProfeScore" width="600" height="400">
-                        <div class="desc">ProfeScore, 2016 UPRA 2nd Research Symposium</div>
-                    </div>
-                    
-                </div>
-            </div>
+	 <div class="container">
+		 <div class="col-md-18 col-sm-18 animate-box">
+				 <div class="gallery">
+					 <img src="images/graduados_cam_2018.jpg" alt="">
+					 <div class="desc">Graduates CAM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/upra_investiga_18.jpg" alt="">
+					 <div class="desc">UPRA Investiga 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/tiro_camara2.jpg" alt="">
+					 <div class="desc">Tiro de Camara PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/tiro_camara.jpg" alt="">
+					 <div class="desc">Tiro de Camara PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/pl_android.jpg" alt="">
+					 <div class="desc">Pregunta Lobo iOS PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/pl_ios.jpg" alt="">
+					 <div class="desc">Pregunta Lobo Android PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/guaridalobo2.jpg" alt="">
+					 <div class="desc">Guarida Lobo PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/guaridalobo.jpg" alt="">
+					 <div class="desc">Guarida Lobo PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/stemApp3.jpg" alt="">
+					 <div class="desc">STEM Apps PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/stemApp2.jpg" alt="">
+					 <div class="desc">STEM Apps PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/stemApp.jpg" alt="">
+					 <div class="desc">STEM Apps PRISM 2018</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/prism_2018_1.jpg" alt="">
+					 <div class="desc">2018 PRISM Junior Technical Meeting, Turabo</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/bryan_paris3.jpg" alt="">
+					 <div class="desc">34th IEEE Int. Conf. en Data Engineering 2018, Paris </div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/ramon_paris3.jpg" alt="">
+					 <div class="desc">34th IEEE Int. Conf. en Data Engineering 2018, Paris  </div>
+				 </div>
+				 <!--2018-->
+				 <div class="gallery">
+					 <img src="images/ern1.jpg" alt="">
+					 <div class="desc">ERN Conference in STEM 2018, Washington DC</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/bryan3.jpg" alt="">
+					 <div class="desc">ERN Conference in STEM 2018, Washington DC</div>
+				 </div>
+				 <!--2016-->
+				 <div class="gallery">
+					 <img src="images/Calendar.jpg" alt="UPRA Calendar">
+					 <div class="desc">UPRA Calendar, 2016 UPRA 2nd Research Symposium</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/Music_System.jpg" alt="Music System">
+					 <div class="desc">Music System, 2016 UPRA 2nd Research Symposium</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/mi-SIS.jpg" alt="mi-SIS">
+					 <div class="desc">mi-SIS, 2016 UPRA 2nd Research Symposium</div>
+				 </div>
+				 <div class="gallery">
+					 <img src="images/ProfeScore.jpg" alt="ProfeScore">
+					 <div class="desc">ProfeScore, 2016 UPRA 2nd Research Symposium</div>
+				 </div>
+			 </div>
 
-            <div class="col-md-18 col-sm-18 animate-box">
-                <div class="row">
-				<div class="gallery">
-                        <img src="images/android_app.jpg" alt="Android" width="600" height="400" >
-                        <div class="desc">Android, 2016 UPRA 2nd Research Symposium </div>
-                    </div>
-				    <div class="gallery">
-                        <img src="images/iOS_app.jpg" alt="iOS" width="600" height="400">
-                        <div class="desc">iOS, 2016 UPRA 2nd Research Symposium</div>
-                    </div>
-				<div class="gallery">
-				        <img src="images/camupra1.jpg" alt="" width="600" height="400">
-				        <div class="desc">2016 PRISM Junior Technical Meeting,<br> Pontificia Universidad Católica de Puerto Rico</div>
-				    </div>
-				    <div class="gallery">
-				        <img src="images/camupra4.jpg" alt="" width="600" height="400">
-				        <div class="desc">2016 PRISM Junior Technical Meeting,<br> Pontificia Universidad Católica de Puerto Rico</div>
-				    </div>
-				    <div class="gallery">
-				        <img src="images/camupra5.jpg" alt="" width="600" height="400">
-				        <div class="desc">2016 PRISM Junior Technical Meeting, <br>Pontificia Universidad Católica de Puerto Rico</div>
-				    </div>
-           		    <div class="gallery">
-				        <img src="images/PerfectlyClear3.jpg" alt="" width="600" height="400">
-				        <div class="desc">2016 PRISM Junior Technical Meeting,<br> Pontificia Universidad Católica de Puerto Rico</div>
-				    </div>
-					<!--2015-->
-                    <div class="gallery">
-				        <img src="images/PRISM_2015_3.jpg" alt="" width="600" height="400">
-				        <div class="desc">2015 PRISM Junior Technical Meeting, UPRRP</div>
-				    </div>
-				    <div class="gallery">
-				        <img src="images/PRISM.jpg" alt="" width="600" height="400">
-				        <div class="desc">2015 PRISM Junior Technical Meeting, UPRRP</div>
-				    </div>
+			 <div class="col-md-18 col-sm-18 animate-box">
+				 <div class="row">
+					 <div class="gallery">
+						 <img src="images/android_app.jpg" alt="Android">
+						 <div class="desc">Android, 2016 UPRA 2nd Research Symposium </div>
+					 </div>
+					 <div class="gallery">
+						 <img src="images/iOS_app.jpg" alt="iOS" >
+						 <div class="desc">iOS, 2016 UPRA 2nd Research Symposium</div>
+					 </div>
+					 <div class="gallery">
+						 <img src="images/camupra1.jpg" alt="" >
+						 <div class="desc">2016 PRISM Junior Technical Meeting, PUCPR</div>
+					 </div>
+					 <div class="gallery">
+						 <img src="images/camupra4.jpg" alt="">
+						 <div class="desc">2016 PRISM Junior Technical Meeting, PUCPR</div>
+					 </div>
+					 <div class="gallery">
+						 <img src="images/camupra5.jpg" alt="">
+						 <div class="desc">2016 PRISM Junior Technical Meeting, PUCPR</div>
+					 </div>
+					 <div class="gallery">
+						 <img src="images/PerfectlyClear3.jpg" alt="">
+						 <div class="desc">2016 PRISM Junior Technical Meeting, PUCPR</div>
+					 </div>
+				 <!--2015-->
+					 <div class="gallery">
+						 <img src="images/PRISM_2015_3.jpg" alt="">
+						 <div class="desc">2015 PRISM Junior Technical Meeting, UPRRP</div>
+					 </div>
+					 <div class="gallery">
+							<img src="images/PRISM.jpg" alt="">
+							<div class="desc">2015 PRISM Junior Technical Meeting, UPRRP</div>
+					 </div>
 					<div class="gallery">
-                        <img src="images/Freshmen_Week.jpg" alt="Freshmen_Week" width="600" height="400">
-                        <div class="desc">Pregunta Lobo Presentation, Freshmen Week 2015</div>
-                    </div>
-                    <div class="gallery">
-				        <img src="images/CAM_UPRA_oct15.JPG" alt="CAM" width="600" height="400">
-				        <div class="desc">CAM Students working in a Office</div>
-				    </div>		
-                </div>
-            </div>
-        </div>
-    </div>
+							<img src="images/Freshmen_Week.jpg" alt="Freshmen_Week">
+							<div class="desc">Pregunta Lobo Presentation, Freshmen Week 2015</div>
+				 </div>
+				 <div class="gallery">
+							 <img src="images/CAM_UPRA_oct15.JPG" alt="CAM">
+							 <div class="desc">CAM Students working in an Office</div>
+				 </div>
+							 </div>
+					 </div>
+			 </div>
+	 </div>
 
    <!--Container de footer que incluye la información de quien creo la página, el acerca de y contactános-->
    <footer id="fh5co-footer" role="contentinfo">

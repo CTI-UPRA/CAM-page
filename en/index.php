@@ -127,16 +127,16 @@
 						<!--<li><a href="proyectos.php">Proyectos</a></li>-->
 						<li><a href="../index.php">Spanish Version</a></li>
                         <div class="dropdown">
-							<li><a href="proyectos.php">Proyectos</a></li>
+							<li><a href="projects.php">Projects</a></li>
                           <div class="dropdown-content">
                             <a href="apps.php#lobo">Pregunta Lobo</a>
                             <a href="apps.php#stem">Stem Apps</a>
-                            <a href="apps.php#guarida">Guarida</a>
+                            <a href="apps.php#guarida">Guarida Lobo</a>
                           </div>
                         </div>
                         <li><a href="gallery.php#wowslider-container1">Gallery</a></li>
                         <li><a href="courses.php">Courses</a></li>
-						<li><a href="about2.php">About Us</a></li>
+						<li><a href="about.php">About Us</a></li>
 						<li><a href="bio.php">Bio</a></li>
 						<li><a href="contact.php">Contact Us</a></li>
 					</ul>
@@ -172,15 +172,14 @@
 					<div class="col-half animate-box" data-animate-effect="fadeInRight">
 						<div class="table-c">
 							<div class="desc">
-								<span>Our application is now in App Store and Google Play</span>
+								<span>Available in the App Store and Google Play</span>
 								<h3>Pregunta Lobo</h3>
 								<p>Pregunta Lobo is the virtual assistant of the community of UPRA where users can get information related to UPRA using an interface in natural language, in addition to an interactive map with information on each location and informed list of the student organizations. </p>
                                 <h4>Download the app here:</h4>
 								<p><a href="https://itunes.apple.com/us/app/pregunta-lobo/id1111304803?mt=8" target="_blank">
-                                      <img id="icon1" src="Icons/the_App_Store_Badge.svg" ></a>
-
+                                      <img id="icon1" src="Icons/badge.svg"></a>
                                     <a href="https://play.google.com/store/apps/details?id=com.upra.preguntalobo&hl=es_41" target="_blank">
-                                      <img id="icon2" src="Icons/es_badge_web_generic.png" style="width:155px; height:60px"></a>
+                                      <img id="icon2" src="Icons/en_badge_web_generic.png" style="width:155px; height:60px"></a>
                                 </p>
                                 <p>
                                 <img id="icon3" src="Icons/QR_ios.jpg" style="width:120px; height:120px">
@@ -413,7 +412,7 @@
 							<i class="icon-pin"></i>
 						</span>
 						<h3><b>Mission </b></h3>
-						<p>The Mission of the MAC is to serve as the birthplace of mobile innovations of UPRA. </p>
+						<p>The Mission of the CAM is to serve as the source of mobile innovations of UPRA. </p>
 					</div>
 				</div>
 				<div class="col-md-6 col-sm-6 text-center">
@@ -422,7 +421,7 @@
 							<i class="icon-eye"></i>
 						</span>
 						<h3><b>Vision </b></h3>
-						<p>The vision of the MAC is to prepare students for a successful career in mobile computing. </p>
+						<p>The vision of the CAM is to prepare students for a successful career in mobile computing. </p>
 					</div>
 				</div>
 
@@ -442,7 +441,7 @@
 		</div>
         <!--Acomodar mejor-->
 		<div class="project-content">
-			<div class=" col-md-6 animate-box">
+			<div class=" col-md-6 animate-box" align="center">
 				<a href="apps.php#lobo"><div class="project-grid animate-box" style="background-image:url(images/preguntalobo3.png); width: 425px; height: 300px;">
                     <div class="desc">
 						<span>App</span>
@@ -456,11 +455,11 @@
 					</div>
 				</div></a>
 			</div>
-			<div class="col-md-6 animate-box">
+			<div class="col-md-6 animate-box" align="center">
 				<a href="apps.php#guarida"><div class="project-grid animate-box" style="background-image:url(images/guarida1.jpg); width: 425px; height: 300px;">
 					<div class="desc">
 						<span>Project</span>
-                       <h3>La Guarida</h3>
+                       <h3>Guarida Lobo</h3>
 					</div>
                     </div></a>
 				<a href="apps.php#stem"><div class="project-grid animate-box" style="background-image:url(images/stem2.png); width: 425px; height: 300px;">

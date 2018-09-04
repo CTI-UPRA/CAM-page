@@ -13,6 +13,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>CAM &mdash; Proyectos</title>
+	<link rel="shortcut icon" href="images/cam.ico">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Laboratorio de enseñanza e investigación subgraduada, para el desarrollo de aplicaciones de sistemas móviles" />
 	<meta name="keywords" content="Desarrollo Móvil, Investigaciones, Entre otras..." />
@@ -133,7 +134,7 @@
                         </div>
                         <li><a href="galeria.php#wowslider-container1">Galería</a></li>
                         <li><a href="cursos.php">Cursos</a></li>
-						<li><a href="about2.php">Sobre Nosotros</a></li>
+						<li><a href="about.php">Sobre Nosotros</a></li>
 						<li><a href="contact.php">Contáctanos</a></li>
 					</ul>
 				</div>
@@ -186,6 +187,45 @@
                                     </div>
                             </div>
                             <br>
+														<div class="container">
+													<div class="row">
+																		<div class="container">
+													<div class="row">
+														<div class="col-md-8 col-md-offset-2 text-center">
+															<div class="display-t">
+																<div class="display-tc animate-box" data-animate-effect="fadeIn">
+																	<h2 id="calendar">UPRA Calendar</h2>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+																		<br>
+
+																						<div style="text-align: center">
+																										<img src="images/plc.png"height="500" width="300">
+																										<img src="images/plc2.png" height="500" width="300">
+																						</div>
+																						<br>
+																						<div class="row">
+																								<div style="text-align: center">
+																										<div class="col-sm-12">
+																												<div style="text-align: center">
+																												<p>  Esta aplicación proporcionará a los estudiantes <br>
+																														 un dinámico calendario de eventos de UPRA. El  <br>
+																															usuario podrá elegir y filtrar la información <br>
+																														 y notificaciones  más relevantes. La <br>
+																														 aplicación también permitirá al usuario buscar la <br>
+																														 información referente a próximas fechas y guardarlas en su <br>
+																														 calendario móvil. </p>
+																												</div>
+																										</div>
+																								</div>
+																						</div>
+																</div>
+												</div>
+
+
                             <div class="row">
                                 <div style="text-align: center">
                                     <h3>Auspiciadores</h3>
@@ -203,7 +243,9 @@
                             <div class="row">
                                 <div style="text-align: center">
                                     <h3>Poster</h3>
-                                    <img src="images/preguntaLobo.png" height="300px" width="300px">
+																		<a href="http://cam.upra.edu/en/images/preguntaLobo.png" target="_blank">
+																			<img src="images/preguntaLobo.png" height="220px" width="250px" border="0" align="center" src="/">
+																		</a>
                                 </div>
                             </div>
         <br>
@@ -232,20 +274,20 @@
                                 <div class="col-sm-6">
                                     <div style="text-align: right">
                                     <p>El objetivo de esta investigación <br>
-                                       es crear aplicaciones móviles <br>
-                                       que sean de uso para tanto<br>
-                                       profesores como estudiantes de <br>
-                                       las áreas de ciencia, tecnología, <br>
-                                       ingeniería y Math (STEM). </p>
+                                       es crear aplicaciones móviles que<br>
+                                       sean de uso para tanto profesores <br>
+                                       como estudiantes de las áreas de<br>
+                                       Ciencia, Tecnología, Ingeniería y <br>
+                                       Matemáticas (STEM). </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-8-push">
-                                    <p>Esto da a estudiantes de Ciencias <br>
-                                       de la computación una experiencia <br>
-                                       con diferentes tipos de personas, <br>
-                                       mejorar nuestra comprensión de <br>
-                                       peticiones en otras áreas.
+                                    <p>Esto proyecto le brinda a estudiantes  <br>
+                                       de Ciencias de Cómputos la experiencia <br>
+                                       de trabajar con estudiantes de otras <br>
+                                       areas de STEM.
+																		</p>
 						    </div>
                         </div>
                         <div class="row">
@@ -279,7 +321,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1 id="guarida">La Guarida</h1>
+							<h1 id="guarida">Guarida Lobo</h1>
 						</div>
 					</div>
 				</div>
@@ -288,8 +330,8 @@
                 <br>
 
                         <div style="text-align: center">
-                                <img src="images/guarida1.jpg" height="300" width="425">
-                                <img src="images/guarida2.jpg" height="300" width="425">
+																<img src="images/guaridaLobo4.jpeg" height="500" width="300">
+																<img src="images/guaridaLobo3.jpeg" height="500" width="300">
                         </div>
                         <br>
                         <div class="row">
@@ -314,45 +356,6 @@
                         </div>
             </div>
     </div>
-        <br>
-        <div class="container">
-			<div class="row">
-                <div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1 id="calendar">UPRA Calendar</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-                <br>
-
-                        <div style="text-align: center">
-															  <img src="images/uCalendar.png"height="325" width="325">
-																<img src="images/Calendar.jpg" height="300" width="425">
-                        </div>
-                        <br>
-                        <div class="row">
-                            <div style="text-align: center">
-                                <div class="col-sm-12">
-                                    <div style="text-align: center">
-                                    <p>  Esta aplicación proporcionará a los estudiantes <br>
-                                         un dinámico calendario de eventos de UPRA. El  <br>
-                                          usuario podrá elegir y filtrar la información <br>
-                                         y notificaciones  más relevantes. La <br>
-                                         aplicación también permitirá al usuario buscar la <br>
-                                         información referente a próximas fechas y guardarlas en su <br>
-                                         calendario móvil. </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-            </div>
-    </div>
-
                 </div>
             </div>
         </div>

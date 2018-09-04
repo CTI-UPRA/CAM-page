@@ -12,6 +12,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="images/cam.ico">
 	<title>CAM &mdash; Centro de Aplicaciones Móviles</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Laboratorio de enseñanza e investigación subgraduada, para el desarrollo de aplicaciones de sistemas móviles" />
@@ -136,7 +137,7 @@
                         </div>
                         <li><a href="galeria.php#wowslider-container1">Galería</a></li>
                         <li><a href="cursos.php">Cursos</a></li>
-						<li><a href="about2.php">Sobre Nosotros</a></li>
+						<li><a href="about.php">Sobre Nosotros</a></li>
 						<li><a href="contact.php">Contáctanos</a></li>
 					</ul>
 				</div>
@@ -172,7 +173,7 @@
 					<div class="col-half animate-box" data-animate-effect="fadeInRight">
 						<div class="table-c">
 							<div class="desc">
-								<span>Nuestra aplicación ya está en App Store y Google Play</span>
+								<span>Nuestra aplicación está en el App Store y Google Play</span>
 								<h3>Pregunta Lobo</h3>
 								<p>Pregunta Lobo es el asistente virtual de la comunidad de UPRA donde los usuarios pueden obtener información relacionada a UPRA mediante una interfaz de lenguaje natural, en adición a un mapa interactivo con información de cada localización y una lista informada de las organizaciones estudiantiles.</p>
                                 <h4>Descarga el app aquí:</h4>
@@ -288,7 +289,7 @@
 
           <div class="row animate-box">
           	<div class="col-md-1.5 col-md-offset-1.5 text-left">
-            	<h4><b>Mobile</b></h4>
+            	<h4><b>Móvil</b></h4>
             </div>
           </div>
 
@@ -442,7 +443,7 @@
 		</div>
         <!--Acomodar mejor-->
 		<div class="project-content">
-			<div class=" col-md-6 animate-box">
+			<div class=" col-md-6 animate-box" align="center">
 				<a href="apps.php#lobo"><div class="project-grid animate-box" style="background-image:url(images/preguntalobo3.png); width: 425px; height: 300px;">
                     <div class="desc">
 						<span>App</span>
@@ -456,11 +457,11 @@
 					</div>
 				</div></a>
 			</div>
-			<div class="col-md-6 animate-box">
+			<div class="col-md-6 animate-box" align="center">
 				<a href="apps.php#guarida"><div class="project-grid animate-box" style="background-image:url(images/guarida1.jpg); width: 425px; height: 300px;">
 					<div class="desc">
 						<span>Proyecto</span>
-                       <h3>La Guarida</h3>
+                       <h3>Guarida Lobo</h3>
 					</div>
                     </div></a>
 				<a href="apps.php#stem"><div class="project-grid animate-box" style="background-image:url(images/stem2.png); width: 425px; height: 300px;">
