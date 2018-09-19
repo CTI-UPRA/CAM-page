@@ -126,7 +126,7 @@
 						<!-- <a href="cam/en/index.php" hreflang="en">English</a> -->
 						<!-- <li><a href="index.php">Inicio</a></li> -->
 						<!--<li><a href="proyectos.php">Proyectos</a></li>-->
-                       <li><a href="en/index.php">Versión Inglés</a></li>
+                       <li><a href="en/index.php">English Version</a></li>
 					    <div class="dropdown">
                             <li><a href="proyectos.php">Proyectos</a></li>
                           <div class="dropdown-content">
@@ -402,6 +402,33 @@
 		 				</div>
 					</div>
 				</div>
+				<div class="row animate-box">
+          	<div class="col-md-1.5 col-md-offset-1.5 text-left">
+            	<h4><b>Machine Learning</b></h4>
+            </div>
+        </div>
+
+				<div class="row">
+					<div class="col-md-4 col-sm-4 text-center">
+						<div class="feature-center animate-box" data-animate-effect="fadeIn">
+							<span class="icon">
+								<img src="images/caffe-logo.png" style="height:35px;">
+							</span>
+							<h5>Caffe</h5>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-4 text-center">
+						<div class="feature-center animate-box" data-animate-effect="fadeIn">
+							<span class="icon">
+								<img src="images/tensorflow-logo.png" style="height:45px;">
+							</span>
+							<h5>Tensorflow</h5>
+						</div>
+					</div>
+
+
+
 		</div>
 	</div>
     <!--Container animado con la información acerca de la visión y misión del cam -->
@@ -414,7 +441,7 @@
 							<i class="icon-pin"></i>
 						</span>
 						<h3><b>Misión</b></h3>
-						<p>La misión del CAM es servir como la cuna de innovaciones tecnológicas móviles de UPRA.</p>
+						<p>Servir como la cuna de innovaciones tecnológicas móviles de UPRA.</p>
 					</div>
 				</div>
 				<div class="col-md-6 col-sm-6 text-center">
@@ -423,7 +450,7 @@
 							<i class="icon-eye"></i>
 						</span>
 						<h3><b>Visión</b></h3>
-						<p>La visión del CAM es preparar a los estudiantes para una carrera exitosa en computación móvil.</p>
+						<p>Preparar a los estudiantes para una carrera exitosa en computación móvil.</p>
 					</div>
 				</div>
 

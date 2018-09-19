@@ -233,7 +233,7 @@
 					</div>
 					<div style="text-align: center">
 							<p><a href="https://itunes.apple.com/us/app/pregunta-lobo/id1111304803?mt=8" target="_blank">
-								<img id="icon1" src="Icons/badge.svg" ></a>
+								<img id="icon1" src="Icons/badge.svg"style=" height:42px" ></a>
 
 							<a href="https://play.google.com/store/apps/details?id=com.upra.preguntalobo&hl=es_41" target="_blank">
 								<img id="icon2" src="Icons/en_badge_web_generic.png" style="width:155px; height:60px"></a></p>
@@ -302,7 +302,7 @@
                 </div>
                 <div style="text-align: center">
                    <p><a href="https://itunes.apple.com/us/app/biology-dogma/id1220523791?mt=8" target="_blank">
-                   <img id="icon1" src="Icons/the_App_Store_Badge.svg" ></a>
+                   <img id="icon1" src="Icons/badge.svg" style="height:42px" ></a>
 
                    <a href="https://play.google.com/store/apps/details?id=org.nativescript.dnanativescript&hl=es_41" target="_blank">
                    <img id="icon2" src="Icons/en_badge_web_generic.png" style="width:155px; height:60px"></a></p>

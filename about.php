@@ -408,11 +408,11 @@ ul.social-icons li  a .fa-linkedin:hover{
 						</div>
 						<div class="desc">
 							<h3>Misión</h3>
-							<p align="center">La misión del CAM es servir como la cuna de innovaciones tecnológicas móviles de la UPRA.</p>
+							<p align="center">Servir como la cuna de innovaciones tecnológicas móviles de la UPRA.</p>
 						</div>
 						<div class="desc">
 							<h3>Visión</h3>
-							<p align="center">La visión del CAM es preparar a los estudiantes para una carrera exitosa en computación móvil.</p>
+							<p align="center">Preparar a los estudiantes para una carrera exitosa en computación móvil.</p>
 						</div>
                     </div>
 				</div>
@@ -483,7 +483,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					</div>
 					<div class="agile_team_grid1">
 						<h4>Ramón Medina</h4>
-						<p>Pregunta Lobo(Android) y STEM Apps</p><br>
+						<p>Pregunta Lobo(Android) and STEM Apps</p><br>
 					</div>
 				</div>
 				<div class="col-md-4 agile_team_grid agile3">
@@ -492,7 +492,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					</div>
 					<div class="agile_team_grid1">
 						<h4>Leilanie Morales</h4>
-						<p>STEM Apps y Guarida Lobo</p><br>
+						<p>STEM Apps and Guarida Lobo</p><br>
 					</div>
 				</div>
 				<div class="col-md-4 agile_team_grid agile3">
@@ -534,7 +534,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					<div class="agile_team_grid1">
 						<h4>Emmanuel Castro</h4>
 						<p>Pregunta Lobo</p>
-						<p>Software Developer en INVID, LLC</p>
+						<p>Software Developer at INVID, LLC</p>
 					</div>
 				</div>
 
@@ -545,7 +545,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 				<div class="agile_team_grid1">
 					<h4>Frankie Coll Varela</h4>
 					<p>Pregunta Lobo</p><br>
-					<p>             </p>
+					<p>Software Engineer at Lookheed Martin</p>
 				</div>
 			</div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -564,8 +564,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 				</div>
 				<div class="agile_team_grid1">
 					<h4>Daniel Damudt</h4>
-					<p>Pregunta Lobo(Android)</p><br>
-					<p>                      </p>
+					<p>Pregunta Lobo(Android)</p>
+					<p>Systems Engineer at Infosys</p>
 				</div>
 			</div>
 				<div class="col-md-4 agile_team_grid agile1">
@@ -575,7 +575,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					<div class="agile_team_grid1">
 						<h4>Bryan Hernández</h4>
 						<p>Guarida Lobo, Machine Learning y STEM Apps</p>
-						<p>Software Developer, Inteldot</p>
+						<p>CS Ph.D. student at U of Alabama</p>
 					</div>
 				</div>
 				<div class="col-md-4 agile_team_grid agile3">
@@ -584,8 +584,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 					</div>
 					<div class="agile_team_grid1">
 						<h4>Elliot López</h4>
-						<p>Machine Learning y STEM Apps</p><br>
-						<p>                      </p>
+						<p>Machine Learning y STEM Apps</p>
+						<p>Software Developer at DXC</p>
 					</div>
 				</div>
 				<div class="col-md-4 agile_team_grid agile2">
@@ -594,8 +594,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 					</div>
 					<div class="agile_team_grid1">
 						<h4>Yaraliz Mercado</h4>
-						<p>Pregunta Lobo(iOS)</p></br>
-						<p></p>
+						<p>Pregunta Lobo(iOS)</p>
+						<p>Databases Management at Island Wide</p>
 					</div>
 				</div>
 				<div class="col-md-4 agile_team_grid agile3">
@@ -604,8 +604,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 					</div>
 					<div class="agile_team_grid1">
 						<h4>Giselle Montano</h4>
-						<p>Music System</p><br>
-						<p>            <p>
+						<p>Music System</p>
+						<p>Systems Engineer at Lookheed Martin NJ<p>
 					</div>
 				</div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -615,7 +615,7 @@ ul.social-icons li  a .fa-linkedin:hover{
  				<div class="agile_team_grid1">
 	 				<h4>Carlos Nieves Cardona</h4>
 	 				<p> Pregunta Lobo(Android) </p>
-	 				<p>Web Developer, DXC Technology</p>
+	 				<p>Web Developer at DXC Technology</p>
  				</div>
 			</div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -625,7 +625,7 @@ ul.social-icons li  a .fa-linkedin:hover{
  				<div class="agile_team_grid1">
 	 				<h4>Delma I. Nieves Rivera</h4>
 	 				<p>Pregunta Lobo(Android)</p>
-	 				<p>Estudiante de Doctorado, Computer Science</p>
+	 				<p>CS Ph.D. student at MS State</p>
  				</div>
 			</div>
 		 <div class="col-md-4 agile_team_grid agile3">
@@ -634,8 +634,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 			 </div>
 			 <div class="agile_team_grid1">
 				 <h4>Javier Olmo</h4>
-				 <p>Machine Learning</p><br>
-				 <p>                      </p>
+				 <p>Machine Learning</p>
+				 <p>Software Developer at Rock Solid Tech</p>
 			 </div>
 		 </div>
 		 <div class="col-md-4 agile_team_grid agile3">
@@ -644,8 +644,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 		 	</div>
 		 	<div class="agile_team_grid1">
 		 		<h4>Yessebell Ríos</h4>
-		 		<p>Guarida Lobo y STEM Apps</p><br>
-		 		<p>                      </p>
+		 		<p>Guarida Lobo y STEM Apps</p>
+		 		<p>Systems Engineer at Infosys</p>
 		 	</div>
 		 </div>
 		 <div class="col-md-4 agile_team_grid agile3">
@@ -655,7 +655,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 				<div class="agile_team_grid1">
 					<h4>Cheylianie Rivera</h4>
 					<p>Pregunta Lobo(iOS)</p>
-					<p>Software Engineer, Lookheed Martin</p>
+					<p>Software Engineer at Lookheed Martin</p>
 				</div>
 			</div>
 		 <div class="col-md-4 agile_team_grid agile2">
@@ -664,8 +664,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 				</div>
 				<div class="agile_team_grid1">
 					<h4>Erick Rivera</h4>
-					<p>Pregunta Lobo y UPRA Calendar</p><br>
-					<p>                      </p>
+					<p>Pregunta Lobo y UPRA Calendar</p>
+					<p>Implementation Consultant at Fast Company</p>
 				</div>
 		 </div>
 		<div class="col-md-4 agile_team_grid agile3">
@@ -685,7 +685,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 			<div class="agile_team_grid1">
 				<h4>Angélica M. Rosario</h4>
 				<p>Pregunta Lobo</p>
-				<p>Analista/Programador, Multisystems</p>
+				<p>Analyst/Programmer at Multisystems</p>
 			</div>
 		</div>
 		<div class="col-md-4 agile_team_grid agile3">
@@ -694,8 +694,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 			</div>
 			<div class="agile_team_grid1">
 				<h4>Amaury Rodríguez Rivera</h4>
-				<p>Pregunta Lobo(iOS)</p></br>
-				<p></p>
+				<p>Pregunta Lobo(iOS)</p>
+				<p>Analyst/Programmer at Multisystems</p>
 			</div>
 		</div>
 
@@ -706,7 +706,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 			<div class="agile_team_grid1">
 				<h4>Samuel Santiago Soto</h4>
 				<p>Pregunta Lobo</p>
-				<p>Web Developer, DXC Technology</p>
+				<p>Web Developer at DXC Technology</p>
 			</div>
 		</div>
 		<div class="col-md-4 agile_team_grid agile3">
@@ -716,7 +716,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 			<div class="agile_team_grid1">
 				<h4>Ezequiel Santos Freytes</h4>
 				<p>Pregunta Lobo(Android)</p>
-				<p>Fullstack Developer, PIXNABI LAB</p>
+				<p>Fullstack Developer at PIXNABI LAB</p>
 			</div>
 		</div>
 		<div class="col-md-4 agile_team_grid agile3">
@@ -725,8 +725,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 					</div>
 					<div class="agile_team_grid1">
 						<h4>Rafael J. Sierra</h4>
-						<p>Backend Developer</p><br>
-						<p>                      </p>
+						<p>Backend Developer</p>
+						<p>Full-Stack Developer at Inteldot & Cinco Eng</p>
 					</div>
 				</div>
 				<div class="clearfix"> </div>

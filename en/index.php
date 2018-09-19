@@ -125,7 +125,7 @@
 					<ul>
 						<!--<li><a href="index.php">Home</a></li>-->
 						<!--<li><a href="proyectos.php">Proyectos</a></li>-->
-						<li><a href="../index.php">Spanish Version</a></li>
+						<li><a href="../index.php">Versión Español</a></li>
                         <div class="dropdown">
 							<li><a href="projects.php">Projects</a></li>
                           <div class="dropdown-content">
@@ -177,7 +177,7 @@
 								<p>Pregunta Lobo is the virtual assistant of the community of UPRA where users can get information related to UPRA using an interface in natural language, in addition to an interactive map with information on each location and informed list of the student organizations. </p>
                                 <h4>Download the app here:</h4>
 								<p><a href="https://itunes.apple.com/us/app/pregunta-lobo/id1111304803?mt=8" target="_blank">
-                                      <img id="icon1" src="Icons/badge.svg"></a>
+                                      <img id="icon1" src="Icons/badge.svg" style="height:42px"></a>
                                     <a href="https://play.google.com/store/apps/details?id=com.upra.preguntalobo&hl=es_41" target="_blank">
                                       <img id="icon2" src="Icons/en_badge_web_generic.png" style="width:155px; height:60px"></a>
                                 </p>
@@ -375,11 +375,11 @@
 						</div>
 					</div>
 
-					<div class="row animate-box">
-						<div class="col-md-1.5 col-md-offset-1.5 text-left">
-							<h4><b>Cloud</b></h4>
-						</div>
-					</div>
+			<div class="row animate-box">
+				<div class="col-md-1.5 col-md-offset-1.5 text-left">
+					<h4><b>Cloud</b></h4>
+				</div>
+			</div>
 
 					<div class="row">
 						<div class="col-md-4 col-sm-4 text-center">
@@ -400,6 +400,31 @@
 		 				</div>
 					</div>
 				</div>
+
+		<div class="row animate-box">
+          	<div class="col-md-1.5 col-md-offset-1.5 text-left">
+            	<h4><b>Machine Learning</b></h4>
+            </div>
+        </div>
+
+				<div class="row">
+					<div class="col-md-4 col-sm-4 text-center">
+						<div class="feature-center animate-box" data-animate-effect="fadeIn">
+							<span class="icon">
+								<img src="images/caffe-logo.png" style="height:35px;">
+							</span>
+							<h5>Caffe</h5>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-4 text-center">
+						<div class="feature-center animate-box" data-animate-effect="fadeIn">
+							<span class="icon">
+								<img src="images/tensorflow-logo.png" style="height:45px;">
+							</span>
+							<h5>Tensorflow</h5>
+						</div>
+					</div>
 		</div>
 	</div>
     <!--Container animado con la información acerca de la visión y misión del cam -->
@@ -412,7 +437,7 @@
 							<i class="icon-pin"></i>
 						</span>
 						<h3><b>Mission </b></h3>
-						<p>The Mission of the CAM is to serve as the source of mobile innovations of UPRA. </p>
+						<p>Serve as the source of mobile innovations of UPRA. </p>
 					</div>
 				</div>
 				<div class="col-md-6 col-sm-6 text-center">
@@ -421,7 +446,7 @@
 							<i class="icon-eye"></i>
 						</span>
 						<h3><b>Vision </b></h3>
-						<p>The vision of the CAM is to prepare students for a successful career in mobile computing. </p>
+						<p>Prepare students for a successful career in mobile computing. </p>
 					</div>
 				</div>
 

@@ -399,21 +399,25 @@ ul.social-icons li  a .fa-linkedin:hover{
 			<div class="about-content">
 				<div class="row animate-box">
                     <div class="col-md-6 col-md-6">
-						<img class="img-responsive" src="images/cam_interior2.jpg" alt="about">
+						<img class="img-responsive" src="images/cam_room.jpg" alt="about">
 					</div>
 					<div class="col-md-6 col-md-6">
 						<div class="desc">
 							<h3>Mobile Applications Center</h3>
 							<p align="center">
-							The Centro de Aplicaciones Móviles (CAM) is a laboratory for education and undergraduate research, and the development of applications for mobile systems (apps), which provides technological solutions to the University of Puerto Rico at Arecibo (UPRA) for services in our community and enriching experiences for their students. </p>
+							Centro de Aplicaciones Móviles (CAM) is an education and undergraduate research laboratory for the development of mobile and web applications, which provides technological solutions for the University of Puerto Rico at Arecibo (UPRA) and the STEM academic community.  
+							</p>
+							<p align="center">
+							The lab located at UPRA room AC 308, includes 3 Apple computers, 2 pc workstations, multiple Android and iOS tablets, and A/V equipment.
+							</p>
 						</div>
 						<div class="desc">
 							<h3>Mission</h3>
-							<p align="center">The Mission of the CAM is to serve as the source of mobile innovations of UPRA.</p>
+							<p align="center">Serve as the source of mobile innovations of UPRA.</p>
 						</div>
 						<div class="desc">
 							<h3>Vision</h3>
-							<p align="center">The vision of the CAM is to prepare students for a successful career in mobile computing.</p>
+							<p align="center">Prepare students for a successful career in mobile computing.</p>
 						</div>
                     </div>
 				</div>
@@ -439,7 +443,7 @@ ul.social-icons li  a .fa-linkedin:hover{
     <!-- team -->
 		<div class="team" id="team">
 			<div class="container">
-				<h3>Active Students</h3>
+				<h3>Current Students</h3>
 				<label class="line"></label>
 				<div class="agile_team_grids">
 					<div class="col-md-4 agile_team_grid agile3">
@@ -523,7 +527,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 	<!-- team -->
 		<div class="team" id="team">
 			<div class="container">
-				<h3>Graduate Students</h3>
+				<h3>Alumni</h3>
 				<label class="line"></label>
 
 				<div class="agile_team_grids">
@@ -545,7 +549,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					<div class="agile_team_grid1">
 						<h4>Frankie Coll Varela</h4>
 						<p>Pregunta Lobo</p><br>
-						<p>             </p>
+						<p>Software Engineer, Lookheed Martin</p>
 					</div>
 				</div>
 				<div class="col-md-4 agile_team_grid agile3">
@@ -565,7 +569,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					<div class="agile_team_grid1">
 						<h4>Daniel Damudt</h4>
 						<p>Pregunta Lobo(Android)</p>
-						<p>Systems Engineer, Infosys</p>
+						<p>Systems Engineer at Infosys</p>
 					</div>
 				</div>
 					<div class="col-md-4 agile_team_grid agile1">
@@ -575,7 +579,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 						<div class="agile_team_grid1">
 							<h4>Bryan Hernández</h4>
 							<p>Guarida Lobo, Machine Learning, STEM Apps</p>
-							<p>HCI, University of Alabama</p>
+							<p>CS Ph.D. student at U of Alabama</p>
 						</div>
 					</div>
 					<div class="col-md-4 agile_team_grid agile3">
@@ -584,8 +588,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 						</div>
 						<div class="agile_team_grid1">
 							<h4>Elliot López</h4>
-							<p>Machine Learning and STEM Apps</p><br>
-							<p>                      </p>
+							<p>Machine Learning and STEM Apps</p>
+							<p>Software Developer at DXC</p>
 						</div>
 					</div>
 					<div class="col-md-4 agile_team_grid agile2">
@@ -595,7 +599,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 						<div class="agile_team_grid1">
 							<h4>Yaraliz Mercado</h4>
 							<p>Pregunta Lobo(iOS)</p>
-							<p>Database Management, Island Wide</p>
+							<p>Database Management at Island Wide</p>
 						</div>
 					</div>
 					<div class="col-md-4 agile_team_grid agile3">
@@ -605,7 +609,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 						<div class="agile_team_grid1">
 							<h4>Giselle Montano</h4>
 							<p>Music System</p>
-							<p>Systems Engineer, Lookheed Martin NJ<p>
+							<p>Systems Engineer at Lookheed Martin NJ<p>
 						</div>
 					</div>
 				<div class="col-md-4 agile_team_grid agile3">
@@ -615,7 +619,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 	 				<div class="agile_team_grid1">
 		 				<h4>Carlos Nieves Cardona</h4>
 		 				<p> Pregunta Lobo(Android) </p>
-		 				<p>Web Developer, DXC Technology</p>
+		 				<p>Web Developer at DXC Technology</p>
 	 				</div>
 				</div>
 				<div class="col-md-4 agile_team_grid agile3">
@@ -625,7 +629,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 	 				<div class="agile_team_grid1">
 		 				<h4>Delma I. Nieves Rivera</h4>
 		 				<p>Pregunta Lobo(Android)</p>
-		 				<p>Ph.D Student, Computer Science</p>
+		 				<p>CS Ph.D. student at MS State</p>
 	 				</div>
 				</div>
 			 <div class="col-md-4 agile_team_grid agile3">
@@ -635,7 +639,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 				 <div class="agile_team_grid1">
 					 <h4>Javier Olmo</h4>
 					 <p>Machine Learning</p>
-					 <p>Software Developer, Rock Solid Tech.</p>
+					 <p>Software Developer at Rock Solid Tech</p>
 				 </div>
 			 </div>
 			 <div class="col-md-4 agile_team_grid agile3">
@@ -645,7 +649,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 			 	<div class="agile_team_grid1">
 			 		<h4>Yessebell Ríos</h4>
 			 		<p>Guarida Lobo and STEM Apps</p>
-			 		<p>Infosys</p>
+			 		<p>Systems Engineer at Infosys</p>
 			 	</div>
 			 </div>
 			 <div class="col-md-4 agile_team_grid agile3">
@@ -655,7 +659,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					<div class="agile_team_grid1">
 						<h4>Cheylianie Rivera</h4>
 						<p>Pregunta Lobo(iOS)</p>
-						<p>Software Engineer, Lookheed Martin</p>
+						<p>Software Engineer at Lookheed Martin</p>
 					</div>
 				</div>
 			 <div class="col-md-4 agile_team_grid agile2">
@@ -665,7 +669,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					<div class="agile_team_grid1">
 						<h4>Erick Rivera</h4>
 						<p>Pregunta Lobo and UPRA Calendar</p>
-						<p>Software Developer, Inteldot</p>
+						<p>Implementation Consultant at Fast Company</p>
 					</div>
 			 </div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -685,7 +689,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 				<div class="agile_team_grid1">
 					<h4>Angélica M. Rosario</h4>
 					<p>Pregunta Lobo</p>
-					<p>Analyst/Programmer, Multisystems</p>
+					<p>Analyst/Programmer at Multisystems</p>
 				</div>
 			</div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -695,7 +699,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 				<div class="agile_team_grid1">
 					<h4>Amaury Rodríguez Rivera</h4>
 					<p>Pregunta Lobo(iOS)</p>
-					<p>Analyst/Programmer, Multisystems</p>
+					<p>Analyst/Programmer at Multisystems</p>
 				</div>
 			</div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -705,7 +709,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 				<div class="agile_team_grid1">
 					<h4>Samuel Santiago Soto</h4>
 					<p>Pregunta Lobo</p>
-					<p>Web Developer, DXC Technology</p>
+					<p>Web Developer at DXC Technology</p>
 				</div>
 			</div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -715,7 +719,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 				<div class="agile_team_grid1">
 					<h4>Ezequiel Santos Freytes</h4>
 					<p>Pregunta Lobo(Android)</p>
-					<p>Fullstack Developer, PIXNABI LAB</p>
+					<p>Fullstack Developer at PIXNABI LAB</p>
 				</div>
 			</div>
 			<div class="col-md-4 agile_team_grid agile3">
@@ -725,7 +729,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 						<div class="agile_team_grid1">
 							<h4>Rafael J. Sierra</h4>
 							<p>Backend Developer</p>
-							<p>Full-Stack Developer, Inteldot & Cinco Eng.</p>
+							<p>Full-Stack Developer at Inteldot & Cinco Eng</p>
 						</div>
 					</div>
 					<div class="clearfix"> </div>
