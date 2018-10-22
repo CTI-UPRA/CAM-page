@@ -548,7 +548,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 					</div>
 					<div class="agile_team_grid1">
 						<h4>Frankie Coll Varela</h4>
-						<p>Pregunta Lobo</p><br>
+						<p>Pregunta Lobo</p>
 						<p>Software Engineer, Lookheed Martin</p>
 					</div>
 				</div>

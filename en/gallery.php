@@ -86,7 +86,7 @@
 
         .dropbtn {
     background-color: transparent;
-    color: 999A9B;
+    color: #999A9B;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -182,6 +182,22 @@
 	<div id="fh5co-services">
 	 <div class="container">
 		 <div class="col-md-18 col-sm-18 animate-box">
+		 <div class="gallery">
+ 						<img src="images/ghc18.jpg" alt="">
+ 						<div class="desc">Grace Hopper Conference 2018</div>
+					 </div>
+					 <div class="gallery">
+ 						<img src="images/ghc18_3.jpg" alt="">
+ 						<div class="desc">Grace Hopper Conference 2018</div>
+ 					</div> 
+					 <div class="gallery">
+ 						<img src="images/ghc18_1.jpg" alt="">
+ 						<div class="desc">Grace Hopper Conference 2018</div>
+					 </div>
+					 <div class="gallery">
+ 						<img src="images/ghc18_2.jpg" alt="">
+ 						<div class="desc">Grace Hopper Conference 2018</div>
+					 </div>
 				 <div class="gallery">
 					 <img src="images/graduados_cam_2018.jpg" alt="">
 					 <div class="desc">Graduates CAM 2018</div>
