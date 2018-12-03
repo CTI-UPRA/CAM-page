@@ -554,8 +554,8 @@ ul.social-icons li  a .fa-linkedin:hover{
 				</div>
 				<div class="agile_team_grid1">
 					<h4>Rafael E. Colón</h4>
-					<p>Guarida Lobo</p><br>
-					<p>                      </p>
+					<p>Guarida Lobo</p>
+					<p>Web Developer at IT Developers Group</p>
 				</div>
 			</div>
 			<div class="col-md-4 agile_team_grid agile1">
